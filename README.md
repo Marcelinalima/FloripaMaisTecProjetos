@@ -7,7 +7,7 @@ Fiz a Receita Bolo de Laranja com casca e a
 Receita de um delicioso Cappuchino caseiro.
 
 Na receita do bolo coloquei o link que direciona para Receita do Cappuchino,
-E na Receita do Cappuchino tem o link que leva novamente para Receita bolo.
+e na Receita do Cappuchino tem o link que leva novamente para Receita bolo.
 
 Irei melhorando aos poucos o Site.
 
