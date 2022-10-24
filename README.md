@@ -9,7 +9,7 @@ Receita de um delicioso Cappuchino caseiro.
 Na receita do bolo coloquei o link que direciona para Receita do Cappuchino,
 E na Receita do Cappuchino tem o link que leva novamente para Receita bolo.
 
-irei melhorando aos poucos o Site.
+Irei melhorando aos poucos o Site.
 
 Falta implementar CSS e JavaScript.
 
